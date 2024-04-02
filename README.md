@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Matyk98
 - 👀 I’m interested in Coding, skis and football
-- 🌱 I’m currently learning Java, Spring.
-- 💞️ I’m looking to collaborate on internship
 - 📫 How to reach me -> matykaoskar@wp.pl
 
 <!---
